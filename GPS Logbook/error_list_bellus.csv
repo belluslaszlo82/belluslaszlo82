@@ -1,0 +1,42 @@
+﻿ID;Subject ;Description;Section;Page Number
+1;Incorrect grammar;"Missing a ""d"" letter from ""4.2 Supported web browsers included""";1;1
+2;Incorrect grammar ;"The word ""Specifications"" spelled incorrectly";1;1
+3;Missing content;"The subsection ""1.3"" from the 1 section is missing in table of contents";1;1
+4;Non-standard formatting of the rows;In the table of contents, the spacing is not standard;1;1
+5;Incorrect format;The formatting of subsection 7.3.4 is incorrect.;1;1
+6;Length of the document displayed wrongly;The last page number is shown incorrectly in the entire document (21 instead of 24);4;"""1-24"""
+7;Incorrect link on some of the first pages' footer;The footer on some of the first odd pages redirects to an incorrect website (www.codecool.com);3;1, 3, 5, 7, 9,11
+8;Non-standard form of spacing between captions;The captions don't have a standard spacing-format;2;"1;24"
+9;Incorrect date;"The ""Release date"" is incorrect, because there ara maximum 29 days in February";1;3
+10;Incorrect spacing;The table's clearances should be equal;3;4
+11;Incorrect spelling;"The word ""Reqquiremments"" (correctly: Requirements)";3;4
+12;Incorrect word;"Incorrect word: ""connectivity"", Correctly: connnection";2;4
+13;Incorrect terminology;"Use ""Tri-color"" (according to US spelling) instead of ""Tri colour""";2;4
+14;Spacing mistake;Before 5.2 there is too much spcing;5;5
+15;Incorrect grammar;Missplaced apostroph in the word vehicles' (correctly: vehicle's);5;5
+16;Wrong colors;"The explaining colors used for ""Red"", ""Green"", ""Flashing Red"" are swapped.";5;5
+17;Incorrect spacing;The spacing between the 3rd and 4th element of the list is incorrect;6;5
+18;Explanation and screenshot are on separate page;The explanation and the screenshot should be on the same page(1. figure);6;5
+19;Grammar mistake;in the above mentioned case there is a grammar mistake too, correctly: Figure 1;6;5
+20;Missing figure number;There is no figure (image, screenshot) number above section 5.2;5_1;8
+21;Consequently wrong figure numbers;Because of the previous missing figure number, the numbers of all the figures are wrong.;Everywhere;Everywhere
+22;Figure number alignment incorrect;Left indented figure number. The others'alignment is centered.;6;8
+24;Incorrect spacing;Incorrect space usage between the list-and the sub-list points;6;10
+25;Caption miss-aligned;The register device's example picture's caption is aligned to the left;6;10
+23;Unnecessary page break;It is not necessary to insert a page break in such case.;6;11
+26;Unreasonable usage of page break;There is a page break after the second line;6;11
+28;Incorrect grammar;"The word ""relating"" must be replaced by ""related""";6;13
+29;Incorrect spacing between sublist elements;"The spacing-format of the sub-elements in the ""7.1"" section most be formated into a more cleared form.";7;14
+30;Incorrect sentence structure.;"The second sentence under ""7.1.1"" must be rewritten.";7;14
+31;No measurement unit of radius;"In the text, the zone radius is set to ""100m"", but in the screenshot it is set to ""100"".";7;15
+32;Incorrect grammar;"In the last line, ""update"" must be ""updated""";7;15
+33;Incorrectly numbered sublist-element;"The ""7.1.1"" subelement must be ""7.1.3""";7;16
+34;Missing caption;the caption is missing form the first screenshot.;7;18
+35;Extra word/incorrect sentence usage?;"Instead ""five of reports"", use ""five report types""";7;19
+36;Incorrect report number;The text says there are five report-types but in the screenshot there are only four;7;19
+37;Missing point at the end of sentence;In the subsection 7.3.4, a full stop is missing at the end of the sentence;2;22
+38;Incorrect spacing;In the subsection 7.3.5, the spacing from the text is incorrect;4;22
+39;Overcomplicated sentence-part;"In the subsection ""8.1.2"", redefine the last part of the second sentence:
+Change the ""…current password and the new password."" to ""..current-and new password""";2;23
+40;Misspelled sublist-element;"In the subsection ""8.1.3.4"", the word ""Meters"" are misspelled (""Metres"")";2;24
+41;Extra word;"In the subsection ""9.1""'s second sentence, the second word (is) is obsolete.";3;24
